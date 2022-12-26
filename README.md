@@ -1,6 +1,6 @@
 # ANİME TAKİBİ
 
-## animede kaçıncı bölümde kaldığını kolayca takip etmeni sağlayan site
+## Animede kaçıncı bölümde kaldığını kolayca takip etmeni sağlayan site
 
 *The site that allows you to easily track how many episodes you have left in the anime*
 
