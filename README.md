@@ -2,6 +2,9 @@
 
 ## Animede kaçıncı bölümde kaldığını kolayca takip etmeni sağlayan site
 
+# LINK
+## https://vue-anime-takibi.netlify.app/
+
 *The site that allows you to easily track how many episodes you have left in the anime*
 
 
